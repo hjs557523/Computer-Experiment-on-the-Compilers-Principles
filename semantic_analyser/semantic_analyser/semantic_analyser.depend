@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1545806496 source:d:\documents\desktop\±‡“Î‘≠¿Ì\semantic_analyser\semantic_analyser\main.cpp
+	<iostream>
+	<cstdio>
+	<map>
+	<cstdlib>
+	<vector>
+	<cstring>
+	<string>
+	<queue>
+

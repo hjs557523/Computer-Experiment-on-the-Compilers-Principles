@@ -1,0 +1,7 @@
+id1:real;id2:*integer;id3:integer;
+
+id1:real;proc id2;id3:real;
+
+id1:*real;proc id2;id3:integer;
+
+id1:real;id2:*real;proc id3;id4:real;proc id5;id6:real;id7:real;
